@@ -19,6 +19,7 @@
  *      Weapon.h FireBall.cpp FireBall.h Sword.cpp Sword.h
  *      Coin.cpp Coin.h
  *      PowerUp.h PUpConcrete.cpp PUpConcrete.h
+ *      AbStrategyMove.h CSRandom.cpp CSRandom.h CSChase.cpp CSChase.h
 */
 
 #include <iostream>
