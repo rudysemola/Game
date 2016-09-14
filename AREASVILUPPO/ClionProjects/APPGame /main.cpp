@@ -3,7 +3,7 @@
 //
 /*
  * In questo file troviamo l'istanziazione delle classi e il Game Loop del gioco.
- * Dopo gli Header file,troviamo due funzioni che regolano il movimento "artificiale-autonomo" dei nemici del gioco;
+ * Dopo gli Header file,troviamo la funzione che regola il movimento "artificiale-autonomo" dei nemici del gioco;
  *
  * Nel main ogni riga o piccola porzione del codice è accompagnata da un breve commento che spiega il suo funzionamento principale.
  *
