@@ -49,7 +49,6 @@ void AImoveEnemy(std::vector<Enemy *> &eA, sf::Clock &clockMove, Map &map, Playe
         }
     }
 }
-
 /**********************************************************************************************************************/
 int main() {
     Dice::initDice();
